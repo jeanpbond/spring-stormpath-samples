@@ -35,6 +35,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+		    <groupId>com.stormpath.spring</groupId>
+		    <artifactId>spring-boot-starter-stormpath-thymeleaf</artifactId>
+		    <version>1.0.RC4.2</version>
+		</dependency>
 	</dependencies>
 	
 	<build>
